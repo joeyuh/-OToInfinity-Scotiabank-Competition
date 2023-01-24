@@ -1,5 +1,5 @@
 # OToInfinity-Scotiabank-Competition
-Scotiabank Data Science Discovery Days <br />
+[Scotiabank Data Science Discovery Days](https://uwaterloo.ca/statistics-and-actuarial-science/events/scotiabank-data-science-discovery-days) <br />
 Team Finished as First Place 
 
 ## Project Briefing
