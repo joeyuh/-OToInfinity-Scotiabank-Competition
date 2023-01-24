@@ -1,5 +1,5 @@
 # OToInfinity-Scotiabank-Competition
-Scotiabank Data Science Discovery Days
+Scotiabank Data Science Discovery Days <br />
 Team Finished as First Place 
 
 ## Project Briefing
